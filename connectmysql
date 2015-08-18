@@ -1,0 +1,4 @@
+#restart mysql daemon
+systemctl restart mysqld.service
+#restart apache -- for phpmyadmin access
+systemctl restart httpd.service
