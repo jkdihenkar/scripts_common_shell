@@ -6,3 +6,5 @@ Hello this is collection of my micro shell scripts for fun and learn.
 
 * connectmysql
 > Starting mysqld daemon service and restarting httpd so as to use it with phpmyadmin
+* Java Oracle
+> This is installation script to install oracle jdk instead of OpenJDK that comes by default on my Linux distros.
